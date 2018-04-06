@@ -1,0 +1,15 @@
+{
+  "name": "stl-server",
+  "version": "0.0.1",
+  "description": "server for the such-terrific-league pwa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sebastianmerker85@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
